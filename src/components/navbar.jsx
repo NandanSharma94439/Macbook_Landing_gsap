@@ -15,11 +15,11 @@ const Navbar = () => {
                 </ul>
                 <div className="flex-center gap-3">
                     <button>
-                        <img src="search.svg" alt="Search" />
+                        <img src="/search.svg" alt="Search" />
                     </button>
 
                     <button>
-                        <img src="cart.svg" alt="cart" />
+                        <img src="/cart.svg" alt="cart" />
                     </button>
                 </div>
             </nav>
